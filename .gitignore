@@ -11,7 +11,7 @@ datasets/
 *.npy
 
 # Audio files
-mic_input.wav/
+.mic_input.wav
 *.wav
 *.mp3
 *.flac
