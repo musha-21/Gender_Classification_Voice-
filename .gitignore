@@ -9,3 +9,8 @@ datasets/
 *.csv
 *.npz
 *.npy
+
+# Audio files
+*.wav
+*.mp3
+*.flac
